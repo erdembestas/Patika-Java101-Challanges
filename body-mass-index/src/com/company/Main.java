@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	Scanner val = new Scanner(System.in);
+    Scanner val = new Scanner(System.in);
     double kg, meter,bodyMassIndex;
     System.out.println("Please enter your height as a meter: ");
     meter= val.nextDouble();
